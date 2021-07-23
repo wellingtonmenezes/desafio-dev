@@ -14,5 +14,6 @@
 ### Links Úteis
 - [Documentação Oficial do Python](https://docs.python.org/pt-br/3/tutorial/)
 - [Documentação Oficial do Docker](https://docs.docker.com/)
+- [Documentação Oficial do Docker Compose](https://docs.docker.com/compose/)
 - [Documentação Oficial do Pandas](https://pandas.pydata.org/docs/)
 - [Biblioteca Python para conexão com MySQL](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html)
