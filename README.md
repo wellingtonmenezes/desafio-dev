@@ -6,7 +6,7 @@
 2. O banco de dados deve está rodando em um container Docker
 3. Utilize a ferramenta Docker Compose para realizar o provisionamento do container do banco de dados.
 4. Como sugestão, para auxiliar na importação do arquivo CSV, utilize a biblioteca [pandas](https://pandas.pydata.org/).
-5. Implemente as funções contidas no arquivo python, `populate_db`, de modo a executar a atividade proposta, ficando livre para incluir novas funções para auxiliar na organização do código.
+5. Implemente as funções contidas no arquivo python, `populate_db.py`, de modo a executar a atividade proposta, ficando livre para incluir novas funções para auxiliar na organização do código.
 6. Comente cada linha do código do arquivo Python com uma breve explicação da ação que a linha executa.
 7. Após clonar o repositório, crie uma branch com o nome: `branch_data_seu_nome` e faça `checkout` para a branch criada.
 8. No final faça o `push` de todos os arquivos criados/alterados para o repositório do Github
